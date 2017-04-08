@@ -1,0 +1,29 @@
+Heider Lopes
+heiderlopes@gmail.com
+
+versionamento privado:
+
+Material design lite = Camada Web
+
+https://www.materialpalette.com/
+
+http://www.flaticon.com/
+tamanho 512
+
+
+https://www.numetriclabz.com/android-pie-chart-using-mpandroidchart-library-tutorial/
+http://blog.nkdroidsolutions.com/android-tablayout-example/
+
+Fragmentos: github heiderlopes: suportando multi telas
+
+fileBASE
+
+Menu-dinâmico
+
+
+
+
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.squareup.retrofit2:retrofit:2.1.0'
+    compile 'com.squareup.retrofit2:converter-gson:2.0.2'
+
